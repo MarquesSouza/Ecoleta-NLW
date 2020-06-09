@@ -12,7 +12,7 @@ exports.seed = function(knex) {
           whatsapp: '63 99952-1869', 
           latitude: '-10.161307', 
           longitude: '-48.886977', 
-          city: 'Paraíso do Tocantins', 
+          city: 'Paraiso do Tocantins', 
           uf: 'Tocantins'},
           ]);
     });

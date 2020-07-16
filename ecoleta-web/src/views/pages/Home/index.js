@@ -24,7 +24,7 @@ const Home =()=>{
                 
             <p>Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.</p>
         
-            <a href="#"><span></span><strong>Pesquisar pontos de coleta</strong></a>
+            
         </main>
          </div>
          </div>

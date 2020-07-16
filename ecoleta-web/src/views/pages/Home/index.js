@@ -3,7 +3,7 @@ import {FiLogIn} from 'react-icons/fi';
 import {Link} from 'react-router-dom';
 import './styles.css';
 import logo from '../../../assets/logo.svg';
-import Modal from '../partials/modal'
+
 const Home =()=>{
     return (
         <div id="page-home">
@@ -26,7 +26,6 @@ const Home =()=>{
         
             
         </main>
-        <Modal />
          </div>
          </div>
         );
